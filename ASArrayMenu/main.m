@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-
 void sort(int array[]);
 void oddvaluessum(int array[]);
 void evenvaluessum(int array[]);
